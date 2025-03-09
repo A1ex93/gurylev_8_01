@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Git`" - `Gurylev AV`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -43,11 +43,15 @@
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
+ ![alt text](https://github.com/A1ex93/gurylev_8_01/blob/main/img/1.png)
+ ![alt text](https://github.com/A1ex93/gurylev_8_01/blob/main/img/2.png)---
+ ![alt text](https://github.com/A1ex93/gurylev_8_01/blob/main/img/3.png)
+ ![alt text](https://github.com/A1ex93/gurylev_8_01/blob/main/img/4.png)
+ ![alt text](https://github.com/A1ex93/gurylev_8_01/blob/main/img/5.png)
 
-
----
 
 ### Задание 2
+
 
 `Приведите ответ в свободной форме........`
 
